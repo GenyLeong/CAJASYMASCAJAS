@@ -1,0 +1,19 @@
+.padre {
+background-color: yellow;
+display:block;
+padding: 50px;
+}
+
+.hijo{
+border:1px solid black;
+background-color: red;
+display:block;
+padding: 50px;
+
+}
+
+div{
+	height: 100px;
+	width: 300px;
+	
+}
